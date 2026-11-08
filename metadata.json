@@ -1,0 +1,6 @@
+{
+  "name": "BROTEX Control",
+  "description": "Sistema de control remoto y pase de lista automatizado para el prototipo BROTEX TH0.0 en el CBTIS No. 227",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

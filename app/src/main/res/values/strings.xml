@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BROTEX Control</string>
+    <string name="tab_status">Estado</string>
+    <string name="tab_attendance">Asistencia</string>
+    <string name="tab_cleaner">Limpieza</string>
+    <string name="tab_reports">Reportes</string>
+    <string name="school_name">CBTIS No. 227</string>
+    <string name="group_name">Grupo IA5AM</string>
+    <string name="subject_name">La energía en los procesos de la vida</string>
+</resources>
